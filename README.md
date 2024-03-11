@@ -1,6 +1,7 @@
 # Swipe Animation
 
-[![Swipe Animation](https://www.figma.com/community/file/1279536052899216888/swipe-animation)
+[![Swipe Animation]![image](https://github.com/Jais0603/Swipe_Animation/assets/98961661/ab79e618-64e8-4d3a-9605-f5c2999deb89)]
+
 
 This project contains a simple swipe animation designed using Figma. The animation simulates the swipe gesture commonly used in mobile applications for navigation or interaction purposes.
 
