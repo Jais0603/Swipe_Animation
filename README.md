@@ -1,6 +1,6 @@
 # Swipe Animation
 
-[![Swipe Animation](https://www.figma.com/community/file/1279536052899216888/swipe-animation)]
+[![Swipe Animation](https://www.figma.com/community/file/1279536052899216888/swipe-animation)
 
 This project contains a simple swipe animation designed using Figma. The animation simulates the swipe gesture commonly used in mobile applications for navigation or interaction purposes.
 
